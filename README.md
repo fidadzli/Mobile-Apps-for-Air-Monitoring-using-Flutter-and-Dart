@@ -1,2 +1,6 @@
 # Mobile-Application-for-Air-Monitoring-using-Flutter-and-Dart
-Mobile Application designed for quadcopter drone attached with 4 sensors in between each propeller. It can be extended to 8 sensors as well. The mobile apps is designed for data analysis and visualisation of gas sensor reading in real time while drone hovering.
+I have developed a mobile application specifically tailored for quadcopter drones equipped with four sensors positioned between each propeller, with the potential to extend functionality to accommodate up to eight sensors. This mobile application is meticulously designed for real-time data analysis and visualization of gas sensor readings while the drone is in hovering mode.
+
+
+
+
